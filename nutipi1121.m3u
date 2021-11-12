@@ -474,6 +474,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d7
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #############
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.MVOczGxweqIbO4l8efQoKAHaBN&pid=Api&P=0&w=507&h=83" group-title="VOD", Shang-Chi Legend of Ten Rings
+https://d-10.files.im:182/files/4/3ubfpyjinjbber/video.mp4
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.MVOczGxweqIbO4l8efQoKAHaBN&pid=Api&P=0&w=507&h=83" group-title="VOD",BUKUAN PALARAN
 https://m3u-editor.com/serve/e31a85f0-d7e3-11eb-9f03-bb5d8dc5ce0b/326334840
 #EXTINF: group-title="VOD" tvg-logo="https://i.imgur.com/M8YV19x.jpg" ,Action: Vanquish (2021)
