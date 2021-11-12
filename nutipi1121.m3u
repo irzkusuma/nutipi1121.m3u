@@ -474,8 +474,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d7
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #############
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.MVOczGxweqIbO4l8efQoKAHaBN&pid=Api&P=0&w=507&h=83" group-title="VOD", Shang-Chi Legend of Ten Rings
+#EXTINF:-1 tvg-logo="" group-title="VOD", NO TIME TO DIE 2021
+https://mega.nz/file/IY52lKrB#CF3un_rmhCJI6nrtMukaDYoFN00IWj5bBicQD1B8FSA
+#EXTINF:-1 tvg-logo="" group-title="VOD", WINTER LAKE 2021
+https://oim152p.dood.video/u5kjxqdkepglsdgge5xx6nicjyjgj46jvle5i24rou3hfja6v2ra64chv25a/q7c34abi5b~w97WrA0wy9?token=wp8rsi67qifbd09q0kz01d0y&expiry=1636750694225
+#EXTINF:-1 tvg-logo="" group-title="VOD", DUNE 2021
+https://pp249oo.dood.video/u5kj7mj5jlglsdgge6mx4lsblmwgmizerjk4q5hcwsckcdjpk7gtyxap4ceq/2oqufhte0n~MzcwbbqR9Y?token=l0yu8urv3mj235vn4ujiasc6&expiry=1636750577666
+#EXTINF:-1 tvg-logo="" group-title="VOD", SNAKEHEAD 2021
+https://d-15.files.im:182/files/5/2mfjjs8o2uhl27/video.mp4
+#EXTINF:-1 tvg-logo="" group-title="VOD", LAMBS 2021
+https://d-15.files.im:182/files/3/myg25bzofinnh2/video.mp4
+#EXTINF:-1 tvg-logo="" group-title="VOD", Shang-Chi Legend of Ten Rings
 https://d-10.files.im:182/files/4/3ubfpyjinjbber/video.mp4
+tvg-logo="" group-title="VOD", VENOM 2021
+https://d-11.files.im:182/files/2/13d9pbs6fhqn9w/video.mp4
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.MVOczGxweqIbO4l8efQoKAHaBN&pid=Api&P=0&w=507&h=83" group-title="VOD",BUKUAN PALARAN
 https://m3u-editor.com/serve/e31a85f0-d7e3-11eb-9f03-bb5d8dc5ce0b/326334840
 #EXTINF: group-title="VOD" tvg-logo="https://i.imgur.com/M8YV19x.jpg" ,Action: Vanquish (2021)
@@ -1466,14 +1478,5 @@ https://lh3.googleusercontent.com/3fvODebLW56vcDLjIbx72M3tLuuII5kjHnyNDhMbKEm94U
 https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
 #EXTINF: group-title="VOD KIDS" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" ,Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
-
-
-
-
-
-
-
-
-
 
 
